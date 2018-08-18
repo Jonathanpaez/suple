@@ -1,0 +1,15 @@
+.sa-fail {
+  background-color: red;
+  border-style: solid;
+  border-color: crimson;
+}
+.sa-win {
+  background-color: chartreuse;
+  border-style: solid;
+  border-color: darkgreen;
+}
+.sa-normal {
+  background-color:seashell ;
+  border-style: solid;
+  border-color: black;
+}
